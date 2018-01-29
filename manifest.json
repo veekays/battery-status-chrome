@@ -1,0 +1,16 @@
+{
+ "manifest_version": 2, 
+"name": "Battery Status Chrome",  
+ "version": "1.0.7",
+"icons": {
+ "64": "img/battery.png"  
+ },
+"background": {
+ "scripts": ["js/layout.js"] 
+ },
+"browser_action": {
+ "default_title": "battery-status-chrome", 
+ "default_icon": "img/battery.png", 
+ "default_popup": "dialog/dialog.html" 
+ }
+}
