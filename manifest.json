@@ -9,7 +9,7 @@
  "scripts": ["js/layout.js"] 
  },
 "browser_action": {
- "default_title": "battery-status-chrome", 
+ "default_title": "Battery Status For Chrome", 
  "default_icon": "img/battery.png", 
  "default_popup": "dialog/dialog.html" 
  }
